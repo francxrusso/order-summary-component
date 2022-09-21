@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
 /*CSS RESET*/
 
 html, body, div, span, applet, object, iframe,
@@ -45,8 +47,6 @@ table {
 }
 
 /*my code*/
-
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 
 body {
     background-image: url("./images/pattern-background-desktop.svg");
@@ -114,11 +114,11 @@ p {
 
 .price h2 {
     font-size: 1rem;
-    line-height: 0.6rem;
+    line-height: 1.5rem;
 }
 
 .price p {
-    line-height: 0.2rem;
+    line-height: 1.5rem;
 }
 
 .price-text {
