@@ -164,7 +164,19 @@ button {
     font-weight: 700;
 }
 
+.change:hover{
+    opacity:60%;
+}
+
+.proceed:hover{
+    opacity:60%;
+}
+
 .cancel{
     color:hsl(224, 23%, 55%);
     font-weight: 700;
+}
+
+.cancel:hover{
+    color:hsl(223, 47%, 23%);
 }
